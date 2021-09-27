@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Melih and working on Web development
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiin-yang&layout=compact&theme=tokyonight" height="240">
 </p>
